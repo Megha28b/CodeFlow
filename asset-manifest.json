@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeFlow/static/css/main.3f9f5a4d.css",
+    "main.js": "/CodeFlow/static/js/main.f2173812.js",
+    "index.html": "/CodeFlow/index.html",
+    "main.3f9f5a4d.css.map": "/CodeFlow/static/css/main.3f9f5a4d.css.map",
+    "main.f2173812.js.map": "/CodeFlow/static/js/main.f2173812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f9f5a4d.css",
+    "static/js/main.f2173812.js"
+  ]
+}
